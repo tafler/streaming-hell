@@ -19,7 +19,8 @@ const readableNames = {
   napster: 'Napster',
   fanburst: 'Fanburst',
   amazonMusic: 'Amazon Music',
-  soundcloud: 'SoundCloud'
+  soundcloud: 'SoundCloud',
+  spinrilla: 'Spinrilla'
 };
 
 bot.on('message', async ctx => {
